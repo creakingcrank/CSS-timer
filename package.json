@@ -1,0 +1,27 @@
+{
+    "author": "jonathan@lightcycles.co.uk",
+    "dependencies": {},
+    "keywords": [],
+    "name": "css-trainer",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "CSS trainer",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt"
+        ],
+        "uuid": "22b84688-1a74-4825-aa85-fd370f2ae5d3",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
