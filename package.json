@@ -2,12 +2,9 @@
     "author": "jonathan@lightcycles.co.uk",
     "dependencies": {},
     "keywords": [],
-    "name": "css-trainer",
+    "name": "css-timer",
     "pebble": {
-        "capabilities": [
-            ""
-        ],
-        "displayName": "CSS trainer",
+        "displayName": "CSS Timer",
         "enableMultiJS": true,
         "messageKeys": [],
         "projectType": "native",
